@@ -1,0 +1,1001 @@
+# EXTM3U
+ 
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", teste 1
+http://168.205.87.198:8555/live/123456/123456/1.m3u8
+
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3wkl5br", AGRO BRASIL TV
+http://168.205.87.198:8555/live/123456/123456/7.m3u8
+
+
+
+#EXTINF:-1 group-title = "CANAIS" tvg-logo="https://bit.ly/3hwnOcG", CANAL DO BOI
+http://168.205.87.198:8555/live/123456/123456/10.m3u8
+
+
+
+#EXTINF: -1 group-title = "CANAIS" tvg-logo="https://bit.ly/3hx1iAj", CANAL AMC
+http://168.205.87.198:8555/live/123456/123456/14.m3u8
+
+
+#EXTINF: -1 group-title = "CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", AMERICA LATINO
+http://168.205.87.198:8555/live/123456/123456/16.m3u8
+
+
+
+#EXTINF: -1 group-title = "CANAIS" tvg-logo = "http://i.imgur.com/eY508Ps.png", ANIMAL PLANET
+http://168.205.87.198:8555/live/123456/123456/18.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="http://i.imgur.com/6xouXln.png", BAND HD
+http://168.205.87.198:8555/live/123456/123456/19.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3yqkiHL", CANAL LBV (RELIGIOSO)
+http://168.205.87.198:8555/live/123456/123456/21.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3AtomIP", CANAL BRASIL
+http://168.205.87.198:8555/live/123456/123456/24.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3oYMGgw", CANÇÃO NOVA HD
+http://168.205.87.198:8555/live/123456/123456/25.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/2Tje3pG", CARTOON NETWORK
+http://168.205.87.198:8555/live/123456/123456/26.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3wa3GCs", CLASSIC HITS
+http://168.205.87.198:8555/live/123456/123456/27.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="http://i.imgur.com/f3m6Tcz.png", CNN HD
+http://168.205.87.198:8555/live/123456/123456/28.m3u8
+
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="CANAIS",Band News
+http://212.224.98.208:2200/BR/Band_News_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", COMEDY CENTRAL
+http://168.205.87.198:8555/live/123456/123456/29.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL CULT
+http://168.205.87.198:8555/live/123456/123456/30.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL CULTURA HD
+http://168.205.87.198:8555/live/123456/123456/32.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISCOVERY
+http://168.205.87.198:8555/live/123456/123456/33.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISCOVERY H&H
+http://168.205.87.198:8555/live/123456/123456/35.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISCOVERY ID
+http://168.205.87.198:8555/live/123456/123456/36.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISCOVERY KIDS
+http://168.205.87.198:8555/live/123456/123456/37.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISCOVERY SCIENCE
+http://168.205.87.198:8555/live/123456/123456/38.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISCOVERY THEATER
+http://168.205.87.198:8555/live/123456/123456/39.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TLC
+http://168.205.87.198:8555/live/123456/123456/40.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISCOVERY TURBO
+http://168.205.87.198:8555/live/123456/123456/41.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISCOVERY WORLD
+http://168.205.87.198:8555/live/123456/123456/42.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISNEY CHANEL
+http://168.205.87.198:8555/live/123456/123456/45.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISNEY JUNIOR
+http://168.205.87.198:8555/live/123456/123456/46.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISNEY CHANEL
+http://168.205.87.198:8555/live/123456/123456/45.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISNEY JUNIOR
+http://168.205.87.198:8555/live/123456/123456/46.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", DISNEY XD
+http://168.205.87.198:8555/live/123456/123456/47.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", ESPN 2
+http://168.205.87.198:8555/live/123456/123456/49.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", ESPN BRASIL
+http://168.205.87.198:8555/live/123456/123456/50.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", ESPN EXTRA
+http://168.205.87.198:8555/live/123456/123456/51.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", ESPN
+http://168.205.87.198:8555/live/123456/123456/60.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", FASHION TV
+http://168.205.87.198:8555/live/123456/123456/61.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", FISH TV
+http://168.205.87.198:8555/live/123456/123456/62.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", STAR CHANEL
+http://168.205.87.198:8555/live/123456/123456/63.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", STAR LIFE
+http://168.205.87.198:8555/live/123456/123456/64.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", ESPN
+http://168.205.87.198:8555/live/123456/123456/65.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", FOX SPORT 2
+http://168.205.87.198:8555/live/123456/123456/66.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png",CANAL FUTURA
+http://168.205.87.198:8555/live/123456/123456/67.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", FX
+http://168.205.87.198:8555/live/123456/123456/68.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", GAZETA
+http://168.205.87.198:8555/live/123456/123456/69.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", GLOBO MINAS
+http://168.205.87.198:8555/live/123456/123456/70.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", HGTV
+http://168.205.87.198:8555/live/123456/123456/71.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL HITS
+http://168.205.87.198:8555/live/123456/123456/72.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MASTER TV
+http://168.205.87.198:8555/live/123456/123456/74.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MEGA TV
+http://168.205.87.198:8555/live/123456/123456/75.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MTV HD
+http://168.205.87.198:8555/live/123456/123456/76.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL MUSIC
+http://168.205.87.198:8555/live/123456/123456/77.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/canal%20cult.png", CANAL CULT HD
+http://168.205.87.198:8555/live/123456/123456/147.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", NATIONAL GEOGRAFY
+http://168.205.87.198:8555/live/123456/123456/78.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", NICK HD
+http://168.205.87.198:8555/live/123456/123456/80.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", PARAMOUNT
+http://168.205.87.198:8555/live/123456/123456/81.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/36ipWPP", MAP TV PROGRAMAÇÃO
+http://168.205.87.198:8555/live/123456/123456/82.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", PRIME
+http://168.205.87.198:8555/live/123456/123456/83.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", RATIMBUM
+http://168.205.87.198:8555/live/123456/123456/84.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", RECORD
+http://168.205.87.198:8555/live/123456/123456/96.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", RECORD NEWS
+http://168.205.87.198:8555/live/123456/123456/97.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL BOAS NOVAS
+http://168.205.87.198:8555/live/123456/123456/98.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL MN
+http://168.205.87.198:8555/live/123456/123456/99.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", REDE MINAS
+http://168.205.87.198:8555/live/123456/123456/101.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", POLISHOP
+http://168.205.87.198:8555/live/123456/123456/102.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", REDE VIDA
+http://168.205.87.198:8555/live/123456/123456/104.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL SCH
+http://168.205.87.198:8555/live/123456/123456/105.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", REDE SECULO 21
+http://168.205.87.198:8555/live/123456/123456/106.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", SESC TV
+http://168.205.87.198:8555/live/123456/123456/107.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", SPACE
+http://168.205.87.198:8555/live/123456/123456/110.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TCM
+http://168.205.87.198:8555/live/123456/123456/112.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TNT
+http://168.205.87.198:8555/live/123456/123456/116.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TNT SÉRIES
+http://168.205.87.198:8555/live/123456/123456/117.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL TRAVEL
+http://168.205.87.198:8555/live/123456/123456/124.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TRU TV
+http://168.205.87.198:8555/live/123456/123456/130.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TV APARECIDA
+http://168.205.87.198:8555/live/123456/123456/131.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", BRASIL TV
+http://168.205.87.198:8555/live/123456/123456/134.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", BRASIL TV 2
+http://168.205.87.198:8555/live/123456/123456/135.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TV CAMARA
+http://168.205.87.198:8555/live/123456/123456/136.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TV ESCOLA
+http://168.205.87.198:8555/live/123456/123456/137.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TV JUSTIÇA
+http://168.205.87.198:8555/live/123456/123456/138.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", TV SENADO
+http://168.205.87.198:8555/live/123456/123456/139.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MTV LIVE
+http://168.205.87.198:8555/live/123456/123456/140.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", WOHO
+http://168.205.87.198:8555/live/123456/123456/141.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL LOADING
+http://168.205.87.198:8555/live/123456/123456/142.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/36ipWPP", MAP KIDS
+http://168.205.87.198:8555/live/123456/123456/143.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL CINE BRASIL
+http://168.205.87.198:8555/live/123456/123456/145.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL VER NOME
+http://168.205.87.198:8555/live/123456/123456/146.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", RSC TV
+http://168.205.87.198:8555/live/123456/123456/147.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", ALL SPORTES
+http://168.205.87.198:8555/live/123456/123456/148.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL SONY
+http://200.4.96.35:8003/play/a02s/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CINEMAX
+http://200.4.96.35:8002/play/a0ez/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", Elemental Channel (SP)
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", FOX Crime HD
+http://51.15.0.141:88/fox_crime/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", FOX Life
+http://200.4.96.35:8001/play/a0f6/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", Fox Premium 1 4k
+http://200.4.96.35:8003/play/a03t/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MTV BRASIL
+http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MULTISHOW
+http://200.4.96.35:8003/play/a021/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MULTISHOW
+http://201.159.95.114:8000/play/a0d2/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MULTISHOW
+http://201.159.95.238:8000/play/a021/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MULTISHOW
+http://200.4.96.35:8003/play/a021/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3AlyymV", SPORT TV
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3wcRgcV", SPORT TV 2
+http://200.4.96.35:8003/play/a03q/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/2SK7g8C, SPORT TV 3
+http://200.4.96.35:8002/play/a0ej/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/2SK7g8C, SPORT TV 3
+http://200.4.96.35:8001/play/a0ej/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS ALTERNATIVO" tvg-logo="https://bit.ly/3yn6E8i, CANAL Telecine Action
+http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3yn6E8i, CANAL Telecine Action
+http://200.4.96.35:8004/play/a0e1/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/2TBsBBv, CANAL Telecine Cult
+http://187.120.222.12:8000/play/TCCultLEG/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3yoahKP, CANAL Telecine Fun
+http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3yoahKP, CANAL Telecine Fun
+http://200.4.96.35:8004/play/a0e2/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3AnOlkV, CANAL Telecine Pipoca
+http://200.4.96.35:8003/play/a03k/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/3AnOlkV, CANAL Telecine Pipoca
+http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/36aPXkf, CANAL Telecine  Premium
+http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/36aPXkf, CANAL Telecine  Premium
+http://200.4.96.35:8003/play/a03i/index.m3u8
+
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/36aPXkf, CANAL Telecine Touch
+http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://bit.ly/36aPXkf, CANAL Telecine Touch
+http://200.4.96.35:8003/play/a03j/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="", CANAL BAND ALT
+http://199.127.62.234:2082/streams/257_.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="", CANAL GLOBO NSC ALT
+http://199.127.62.234:2082/streams/258_.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="", CANAL GLOBO ALT
+http://199.127.62.234:2082/streams/259_.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="", CANAL GLOBO ALT¹
+http://199.127.62.234:2082/streams/260_.m3u8
+
+#EXTINF:-1 group-title="CANAIS" tvg-logo="", CANAL GLOBO ALT¹
+http://199.127.62.234:2082/streams/260_.m3u8
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", teste 5
+http://rv.imax.re/307201371141/307201371141/82470
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://bit.ly/3h3t0Wj", CORONA VIRUS PANDEMIA
+http://rv.imax.re/307201371141/307201371141/82327
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo="https://bit.ly/3h3t0Wj", CORONA VIRUS PANDEMIA
+http://rv.imax.re/307201371141/307201371141/82327
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/363vtKd", GLOBO SE
+http://rv.imax.re/307201371141/307201371141/82452
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/363vtKd", GLOBO
+http://rv.imax.re/307201371141/307201371141/82453
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/363vtKd", GLOBO MINAS GERAIS
+http://rv.imax.re/307201371141/307201371141/82454
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/363vtKd", GLOBO MINAS
+http://rv.imax.re/307201371141/307201371141/82455
+
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/363vtKd", GLOBO MINAS
+http://rv.imax.re/307201371141/307201371141/82456
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/363vtKd", GLOBO
+http://rv.imax.re/307201371141/307201371141/82457
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/363vtKd", GLOBO
+http://rv.imax.re/307201371141/307201371141/82458
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/363vtKd", GLOBO VER CIDADE
+http://rv.imax.re/307201371141/307201371141/82459
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/3jrhplp", RECORD RIO JANEIRO
+http://rv.imax.re/307201371141/307201371141/82451
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/3jrhplp", RECORD TV
+http://rv.imax.re/307201371141/307201371141/82449
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/3jrhplp", RECORD TV INTERIOR RJ
+http://rv.imax.re/307201371141/307201371141/82450
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://i.imgur.com/Y2ncDiz.png", TV NOVO TEMPO
+http://rv.imax.re/307201371141/307201371141/82438
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://i.imgur.com/HP5aXp6.png", REDE TV
+http://rv.imax.re/307201371141/307201371141/82437
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://i.imgur.com/3HzpWUY.png", SBT HD
+http://rv.imax.re/307201371141/307201371141/82436
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://i.imgur.com/3HzpWUY.png", SBT HD
+http://rv.imax.re/307201371141/307201371141/82435
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/6xouXln.png", BAND HD
+http://rv.imax.re/307201371141/307201371141/82387
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/6xouXln.png", BAND HD
+http://rv.imax.re/307201371141/307201371141/82386
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "http://i.imgur.com/a4pnqAH.png", CANAL GNT HD
+http://rv.imax.re/307201371141/307201371141/82441
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/3qGIQcQ", CANAL MAIS NA TELA HD
+http://rv.imax.re/307201371141/307201371141/82440
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/3hgVjQ6", CANAL WOHOO
+http://rv.imax.re/307201371141/307201371141/82448
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "http://i.imgur.com/CZMldQu.png", CANAL VIVA HD
+http://rv.imax.re/307201371141/307201371141/82447
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "http://i.imgur.com/CZMldQu.png", CANAL BIS HD
+http://rv.imax.re/307201371141/307201371141/82346
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/yYmGNnQ.png", MULTISHOW HD
+http://rv.imax.re/307201371141/307201371141/82376
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/WGoV3TD.png", CANAL OFF
+http://rv.imax.re/307201371141/307201371141/82375
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://i.imgur.com/yN8C90X.png", CANAL E!
+http://rv.imax.re/307201371141/307201371141/82446
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://i.imgur.com/yN8C90X.png", CANAL E!HD
+http://rv.imax.re/307201371141/307201371141/82445
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://i.imgur.com/yN8C90X.png", CANAL E!HD
+http://rv.imax.re/307201371141/307201371141/82445
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/3y6ob4o", CANAL LIFE TIME
+http://rv.imax.re/307201371141/307201371141/82444
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3611OkI", HGTV HD
+http://rv.imax.re/307201371141/307201371141/82341
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/3AdaBhe", FOOD NETWORK
+http://rv.imax.re/307201371141/307201371141/82460
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/0956PZG.png", COMEDY CENTRAL
+http://rv.imax.re/307201371141/307201371141/82383
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/tjEoZDA.png", PRIME BOX BRASIL
+http://rv.imax.re/307201371141/307201371141/82433
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/2U0s6B4", FOOD NETWORK
+http://rv.imax.re/307201371141/307201371141/82443
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "http://i.imgur.com/mFDFUjt.png", CANAL GLOOB
+http://rv.imax.re/307201371141/307201371141/82442
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://bit.ly/2U0s6B4", CANAL VER NOME
+http://rv.imax.re/307201371141/307201371141/82443
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL HD
+http://rv.imax.re/307201371141/307201371141/82439
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/I99RZ9n.png", RECORD NEWS
+http://rv.imax.re/307201371141/307201371141/82430
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/35XL7a3", BAND NEWS HD
+http://rv.imax.re/307201371141/307201371141/82429
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3qAVZ79", CBSN
+http://rv.imax.re/307201371141/307201371141/82428
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3h27Pnt", CANAL CURTA HD
+http://rv.imax.re/307201371141/307201371141/82434
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", TESTE 9
+http://rv.imax.re/307201371141/307201371141/82432
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/2U0s6B4", GLOBO NEWS HD
+http://rv.imax.re/307201371141/307201371141/82431
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", TESTE 3
+http://rv.imax.re/307201371141/307201371141/82427
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3dmZybt", BABY TV HD
+http://rv.imax.re/307201371141/307201371141/82426
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/2TbcUkA", CARTOON HD
+http://rv.imax.re/307201371141/307201371141/82424
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", TOONCAST HD
+http://rv.imax.re/307201371141/307201371141/82417
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://i.imgur.com/HNCqSdX.png", DINEY JR HD
+http://rv.imax.re/307201371141/307201371141/82423
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://i.imgur.com/HNCqSdX.png", DINEY JR¹ HD
+http://rv.imax.re/307201371141/307201371141/82422
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3h0C3HI", DISNEY XD HD
+http://rv.imax.re/307201371141/307201371141/82421
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/ZjLSLiY.png", NICK HD
+http://rv.imax.re/307201371141/307201371141/82420
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/ZjLSLiY.png", NICK HD
+http://rv.imax.re/307201371141/307201371141/82418
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/6vVmJJf.png", NICK JR HD
+http://rv.imax.re/307201371141/307201371141/82419
+
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3jrJAAH", TV RATIMBUM HD
+http://rv.imax.re/307201371141/307201371141/82416
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3AcFpyU", ZOOMO KIDS HD
+http://rv.imax.re/307201371141/307201371141/82365
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3hhflKi", DISCOVERY KIDS HD
+http://rv.imax.re/307201371141/307201371141/82339
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", TESTE 2
+http://rv.imax.re/307201371141/307201371141/82415
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/7NKeRuh.png", A&E HD
+http://rv.imax.re/307201371141/307201371141/82365
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3heQaIh", STAR HITS
+http://rv.imax.re/307201371141/307201371141/82414
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/2TlShSx", STAR HITS 2
+http://rv.imax.re/307201371141/307201371141/82413
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/KOIo5EH.png", HBO HD
+http://rv.imax.re/307201371141/307201371141/82412
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/okiePBA.png", HBO 2 HD
+http://rv.imax.re/307201371141/307201371141/82411
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://i.imgur.com/1hIuQoH.png", HBO POP
+http://rv.imax.re/307201371141/307201371141/82378
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/x2Enlmt.png", HBO FAMILY
+http://rv.imax.re/307201371141/307201371141/82410
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/rjzeynR.png", HBO PLUS
+http://rv.imax.re/307201371141/307201371141/82409
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/i89AzSA.png", HBO SIGNATURE
+http://rv.imax.re/307201371141/307201371141/82408
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://i.imgur.com/HeJPYl6.png", HBO EXTREME
+http://rv.imax.re/307201371141/307201371141/82407
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/VhQUWnY.png", TNT
+http://rv.imax.re/307201371141/307201371141/82398
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/HE2yMfG.png", TNT SERIES
+http://rv.imax.re/307201371141/307201371141/82397
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/xvZ66AU.png", WARNER
+http://rv.imax.re/307201371141/307201371141/82391
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3hlcH66", AMC HD
+http://rv.imax.re/307201371141/307201371141/82390
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/uHwATw4.png", ARTE 1
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/35ZpQMX", AXN
+http://rv.imax.re/307201371141/307201371141/82388
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3x5mCUa", CINEMAX
+http://rv.imax.re/307201371141/307201371141/82384
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/HvbMaEP.png", MEGAPIX HD
+http://rv.imax.re/307201371141/307201371141/82377
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/eHN8OeK.png", CANAL SONY
+http://rv.imax.re/307201371141/307201371141/82373
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/wP2GD1G.png", SPACE HD
+http://rv.imax.re/307201371141/307201371141/82372
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/WnUlcx6.png", STUDIO UNIVERSAL
+http://rv.imax.re/307201371141/307201371141/82371
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/364V3yc", SY FY
+http://rv.imax.re/307201371141/307201371141/82370
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/XHUoj3n.png", TBS HD
+http://rv.imax.re/307201371141/307201371141/82369
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3x6IgYe", TCM HD
+http://rv.imax.re/307201371141/307201371141/82368
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/Aag8ICV.png", UNIVERSAL TV
+http://rv.imax.re/307201371141/307201371141/82366
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/yScrn6s.png", PARAMOUNT HD
+http://rv.imax.re/307201371141/307201371141/82374
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/Lx3R36Y.png", TELE CINE PREMIN
+http://rv.imax.re/307201371141/307201371141/82399
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/Lx3R36Y.png", TELE CINE ACTION
+http://rv.imax.re/307201371141/307201371141/82396
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/Lx3R36Y.png", TELE CINE CULT
+http://rv.imax.re/307201371141/307201371141/82395
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/Lx3R36Y.png", TELE CINE FUN
+http://rv.imax.re/307201371141/307201371141/82394
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/Lx3R36Y.png", TELE CINE PIPOCA
+http://rv.imax.re/307201371141/307201371141/82393
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/Lx3R36Y.png", TELE CINE TOUCH
+http://rv.imax.re/307201371141/307201371141/82392
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/FORA%20DO%20AR.jpg", CANAL FORA DO AR
+http://rv.imax.re/307201371141/307201371141/82363
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://i.imgur.com/bYUGfOo.png", FOX SPORT HD
+http://rv.imax.re/307201371141/307201371141/82359
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png", FOX SPORT HD 2
+http://rv.imax.re/307201371141/307201371141/82358
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png", FOX SPORT 2
+http://rv.imax.re/307201371141/307201371141/82385
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3w1QXS9", CANAL SPORT TV HD¹
+http://rv.imax.re/307201371141/307201371141/82354
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3w1QXS9", CANAL SPORT TV HD
+http://rv.imax.re/307201371141/307201371141/82362
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3qAMtRt", CANAL SPORT TV HD 2
+http://rv.imax.re/307201371141/307201371141/82361
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3vZVTH7", SPORT TV HD 3
+http://rv.imax.re/307201371141/307201371141/82360
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3h1YmMX", ESPN HD
+http://rv.imax.re/307201371141/307201371141/82357
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://i.imgur.com/k3Ic3Mo.png", ESPN 2 HD
+http://rv.imax.re/307201371141/307201371141/8235
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/2ICVj9U", ESPN BRASIL HD
+http://rv.imax.re/307201371141/307201371141/82356
+
+5
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3A9yLt6", BAND SPORTS
+http://rv.imax.re/307201371141/307201371141/82352
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3dsqJBP", COMENBOL TV
+http://rv.imax.re/307201371141/307201371141/82351
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3dsqJBP", COMENBOL TV
+http://rv.imax.re/307201371141/307201371141/82350
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3dsqJBP", COMENBOL TV
+http://rv.imax.re/307201371141/307201371141/82349
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3dsqJBP", COMENBOL TV
+http://rv.imax.re/307201371141/307201371141/82348
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3dsqJBP", COMENBOL TV
+http://rv.imax.re/307201371141/307201371141/82346
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3dsqJBP", COMENBOL TV
+http://rv.imax.re/307201371141/307201371141/82345
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3h4lJFW", COMBATE HD
+http://rv.imax.re/307201371141/307201371141/82353
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3Ad2D7S", PREMIERE
+http://rv.imax.re/307201371141/307201371141/82406
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3Ad2D7S", PREMIERE
+http://rv.imax.re/307201371141/307201371141/82405
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3Ad2D7S", PREMIERE
+http://rv.imax.re/307201371141/307201371141/82404
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3Ad2D7S", PREMIERE
+http://rv.imax.re/307201371141/307201371141/82403
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3Ad2D7S", PREMIERE
+http://rv.imax.re/307201371141/307201371141/82402
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/2U0s6B4", PREMIERE
+http://rv.imax.re/307201371141/307201371141/82401
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3Ad2D7S", PREMIERE
+http://rv.imax.re/307201371141/307201371141/82400
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg", STAR CHANEL HD
+http://rv.imax.re/307201371141/307201371141/82382
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE
+http://rv.imax.re/307201371141/307201371141/82381
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://www.seekpng.com/png/detail/302-3027403_fx-logo-fx-logo-white-png.png", FX HD
+http://rv.imax.re/307201371141/307201371141/82380
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/FORA%20DO%20AR.jpg", FORA DO AR
+http://rv.imax.re/307201371141/307201371141/82379
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/FORA%20DO%20AR.jpg", CANAL FORA DO AR
+http://rv.imax.re/307201371141/307201371141/82347
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/FORA%20DO%20AR.jpg", CANAL FORA DO AR
+http://rv.imax.re/307201371141/307201371141/82344
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3hgJNnV", ANIMAL PLANET HD
+http://rv.imax.re/307201371141/307201371141/82343
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226.png", LOVE NATURE HD
+http://177.20.208.58:8000/play/a03r/index.m3u8
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/35ZSbTt", DISCOVERY HD
+http://rv.imax.re/307201371141/307201371141/82342
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3AaAyOu", H&H DISCOVERY HD
+http://rv.imax.re/307201371141/307201371141/82340
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3hhflKi", DISCOVERY KIDS HD
+http://rv.imax.re/307201371141/307201371141/82339
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3hfYl73", DISCOVERY SCIENCE
+http://rv.imax.re/307201371141/307201371141/82338
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3AbqZin", DISCOVERY THEATER
+http://rv.imax.re/307201371141/307201371141/82337
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/361pntO", DISCOVERY TURBO
+http://rv.imax.re/307201371141/307201371141/82336
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3h5Ml9z", DISCOVERY WORLD HD
+http://rv.imax.re/307201371141/307201371141/82335
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3w9tsqd", HISTORY HD
+http://rv.imax.re/307201371141/307201371141/82334
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/361vJcI", HISTORY 2 HD
+http://rv.imax.re/307201371141/307201371141/82333
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/FORA%20DO%20AR.jpg", FORA DO AR
+http://rv.imax.re/307201371141/307201371141/82332
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3dq3Cbb", NATGEO HD
+http://rv.imax.re/307201371141/307201371141/82331
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3dnhWkv", NATGEO KIDS HD
+http://rv.imax.re/307201371141/307201371141/82330
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3hbT3tm", WILD HD
+http://rv.imax.re/307201371141/307201371141/82329
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/2U0s6B4", FORA DO AR
+http://rv.imax.re/307201371141/307201371141/82328
+
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3h40lk5", TV R 1
+http://rv.imax.re/307201371141/307201371141/82326
+
+
+#EXTINF: -1 group-title ="CANAIS ONLINE" tvg-logo = "https://bit.ly/3vYYPUA", TV R 2
+http://rv.imax.re/307201371141/307201371141/82325
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", WILD HD
+http://rv.imax.re/307201371141/307201371141/82329
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", DISCOVERY ID HD
+http://rv.imax.re/307201371141/307201371141/82332
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", MTV HD
+http://rv.imax.re/307201371141/307201371141/82345
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", BIS HD
+http://rv.imax.re/307201371141/307201371141/82346
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", teste 8
+http://rv.imax.re/307201371141/307201371141/82347
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", teste 9
+http://rv.imax.re/307201371141/307201371141/82348
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", ESPN 2 HD
+http://rv.imax.re/307201371141/307201371141/82355
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", ESPN EXTRA HD
+http://rv.imax.re/307201371141/307201371141/82356
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", FOX SPORT 2
+http://rv.imax.re/307201371141/307201371141/82358
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", FOX SPORT
+http://rv.imax.re/307201371141/307201371141/82359
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", TCM
+http://rv.imax.re/307201371141/307201371141/82368
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", TBS
+http://rv.imax.re/307201371141/307201371141/82369
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", SPACE
+http://rv.imax.re/307201371141/307201371141/82372
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", CANAL SONY HD
+http://rv.imax.re/307201371141/307201371141/82373
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", CANAL OFF
+http://rv.imax.re/307201371141/307201371141/82375
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", MEGAPIX
+http://rv.imax.re/307201371141/307201371141/82377
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", WARNER
+http://rv.imax.re/307201371141/307201371141/82391
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", STAR HIRTS 1
+http://rv.imax.re/307201371141/307201371141/82413
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", STAR HITS¹
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", teste 16
+http://rv.imax.re/307201371141/307201371141/82415
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", RATIMBUM
+http://rv.imax.re/307201371141/307201371141/82416
+
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", NICK JR
+http://rv.imax.re/307201371141/307201371141/82419
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", BOOMERANG
+http://rv.imax.re/307201371141/307201371141/82425
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", teste 8
+http://rv.imax.re/307201371141/307201371141/82427
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", GLOOB
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", teste 4
+http://rv.imax.re/307201371141/307201371141/82344
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", CANAL E!
+http://rv.imax.re/307201371141/307201371141/82445
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", CANAL E!¹
+http://rv.imax.re/307201371141/307201371141/82446
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", teste 9
+http://rv.imax.re/307201371141/307201371141/82449
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", GLOBO TV
+http://rv.imax.re/307201371141/307201371141/82451
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", TV GLOBO
+http://rv.imax.re/307201371141/307201371141/82454
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", GLOBO 1
+http://rv.imax.re/307201371141/307201371141/82455
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", GLOBO 2
+http://rv.imax.re/307201371141/307201371141/82456
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", GLOBO 3
+http://rv.imax.re/307201371141/307201371141/82457
+
+
+#EXTINF: -1 group-title = "CANAIS ONLINE" tvg-logo = "https://canaisfree.000webhostapp.com/teste.png", GLOBO 4
+http://rv.imax.re/307201371141/307201371141/82458
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", GLOBO 5
+http://rv.imax.re/307201371141/307201371141/82459
+
+#EXTINF:-1 group-title="CANAIS ONLINE" tvg-logo="https://canaisfree.000webhostapp.com/teste.png", BAND 1
+http://rv.imax.re/307201371141/307201371141/82387
