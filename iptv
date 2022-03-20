@@ -1,1531 +1,50 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="BBB 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png", BBB 22 MOSAICO
-https://live.xvideosporn.me/p3p/bbb1/p2p/bbb1_720p/chunks.m3u8?nimblesessionid=257957&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIyIDc6NDc6MzAgUE0maGFzaF92YWx1ZT1oY1g4MGc2NG43RStkSHRwYy9hdmFRPT0mdmFsaWRtaW51dGVzPTkw
+http://200.4.96.59:8004/play/a0fb/index.m3u8
 
 
 #EXTINF:-1 group-title="BBB 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png", BBB 22 CAM 1
-https://live.xvideosporn.me/p3p/bbb1cam/p2p/bbbcam1_720p/chunks.m3u8?nimblesessionid=257915&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIyIDc6NDY6MzYgUE0maGFzaF92YWx1ZT1nOWJ1Z3ZEeURWdER4NlRYV0Z1QkpBPT0mdmFsaWRtaW51dGVzPTkw
+http://200.4.96.59:8004/play/a0f9/index.m3u8
 
 
 #EXTINF:-1 group-title="BBB 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png", BBB 22 CAM 2
-https://m3u9.ml/a2/hls1/bbb22a.m3u8?mu3zAQc9HC3GbwJq=6QwvGwIeY0s2N3MO-WxEyg&3U1G7qaTxrPbalZnEx=1647229707
+http://200.4.96.59:8004/play/a0fa/index.m3u8
 
-#EXTINF:-1 group-title="BBB 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png", BBB 22 CAM 3
-https://m3u9.tk/a/hls1/bbb22a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIyIDc6NTA6MjcgUE0maGFzaF92YWx1ZT1GZVRpN3FkaTlrZGRuV1lKaEI0Yjl3PT0mdmFsaWRtaW51dGVzPTQ4MA==
+###################### CORTESIA CANAIS ########################## ##########
 
-#EXTINF:-1 group-title="BBB 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png", BBB 22 CAM 4
-https://m3u9.tk/a/hls1/bbb22.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIyIDc6NTA6NDggUE0maGFzaF92YWx1ZT1mRXQ5OHpMU1BqbmN3WExvN0QrdFVnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1 group-title="CANAIS CORTESIA" tvg-logo="https://cortesiavipentretenimento.files.wordpress.com/2015/09/photo-1.png", A&E HD
+http://200.4.96.59:8002/play/a0e9/index.m3u8
 
-#EXTINF:-1 group-title="BBB 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png", BBB 22 CAM 5
-https://prx3.primetube.stream:4433/stream/36000.m3u8?h=k43uyqlNUHZneC64EdWnHA&t=1647215525
+#EXTINF:-1 group-title="CANAIS CORTESIA" tvg-logo="https://cortesiavipentretenimento.files.wordpress.com/2015/09/photo-1.png", AMC HD
+http://200.4.96.59:8002/play/a0dp/index.m3u8
 
+#EXTINF:-1 group-title="CANAIS CORTESIA" tvg-logo="https://cortesiavipentretenimento.files.wordpress.com/2015/09/photo-1.png", Planeta Animal HD
+http://200.4.96.59:8002/play/a0fe/index.m3u8
 
+#EXTINF:-1 group-title="CANAIS CORTESIA" tvg-logo="https://cortesiavipentretenimento.files.wordpress.com/2015/09/photo-1.png", BandNews HD
+http://200.4.96.59:8002/play/a0fa/index.m3u8
 
 
-###################### ALTERNATIVO 2 ########################## ##########
+#EXTINF:-1 group-title="CANAIS CORTESIA" tvg-logo="https://cortesiavipentretenimento.files.wordpress.com/2015/09/photo-1.png", BanD Esportes HD
+http://200.4.96.59:8002/play/a0f9/index.m3u8
 
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO² TV BAHIA SD
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32176
+#EXTINF:-1 group-title="CANAIS CORTESIA" tvg-logo="https://cortesiavipentretenimento.files.wordpress.com/2015/09/photo-1.png", Boomerang HD
+http://200.4.96.59:8002/play/a0dw/index.m3u8
 
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV BAHIA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32367
 
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png" tvg-logo="https://bit.ly/36aPXkf", ANIMAL PLANET 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31029
 
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BF0jqS", BANDA 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31030
 
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3i0mDU8", CARTOON NETWORK 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31031
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3rElLrB", COMBATE 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31032
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3iMrhUY", DISCOVERY CHANNEL 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31033
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BC4aVS", ESPN 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31034
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3kQZR2V", FOX SPORTS 2 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31035
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3wWSrh2", FOX SPORTS 1 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31036
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3zB18iX", GAZETA 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31037
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31038
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3zw0Jy1", MULTISHOW 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31041
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/2W5IUYb",PREMIERE CLUBES
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31042
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BzVnDL",RECORDTV 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31043
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x1P48K",REDE TV 4K
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/31044
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x0RC6T",SBT 4K
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31045
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3kShL5y",SPACE 4K
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31046
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3iMcyJE",SPORTV 4K
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31047
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3eN2Sh1",STAR CHANNEL
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31048
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/2Vbfp72",TELECINE PIPOCA 4K
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31049
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36aPXkf",TELECINE PREMIUM 4K
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31050
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3iFVOnC",TNT 4K
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31051
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BF0jqS",BAND RJ HD²
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31053
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BF0jqS",BAND RJ HD³
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31055
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BF0jqS",BAND RJ SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31056
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3zxr92E",TV ALTIORA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31058
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BF0jqS",BAND CAMPINAS ¹
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31059
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BF0jqS",BAND FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31060
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BF0jqS",BAND HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31061
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BF0jqS",BAND PA (RBATV)
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31062
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3i1F7DN",CANAL BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31063
-
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3zuQA4L",CANAL DO BOI
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31064
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3y2u9U5",CLASSIQUE TV
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31066
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3y2u9U5",CLASSIQUE TV 2
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31067
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3zB18iX",GAZETA ¹ SP
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31069
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3BzgwxX",GOSPEL CARTOON
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31070
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x1P48K",REDE TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31071
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x1P48K",REDE TV HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31072
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x0RC6",SBT
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31075
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x0RC6T",SBT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31076
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x0RC6T",SBT RJ ¹
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31077
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x0RC6T",SBT TV ALTEROSA HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31078
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x0RC6T",SBT TV SERRA DOURADA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31080
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3x0RC6T",TV ARATU HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31082
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3zwtOcS",TV CULTURA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31083
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3zwtOcS",TV CULTURA HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31084
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/2TzdZCT",TV DIARIO FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31085
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3iNdjSX",TV DIGITAL BIRIGUI
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31086
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="hhttps://bit.ly/3zB18iX",TV GAZETA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31087
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO TV GAZETA NORTE MINEIRA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31088
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/2V9WVUc",TV JORNAL DO NORDESTE
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31091
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3i3UmMK",TV JUSTIÇA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31092
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3y4Vzsr",TV NOVA ONDA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31097
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3y2ZNRF",TV SERRA VERDE
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31099
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3kR9YEV",TV UNIÃO DE NATAL
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31101
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3rypgQv",ANIMAL PLANET FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31104
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3rypgQv",ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31105
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3xd0Zkd",DISCOVERY CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31106
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY HOME & HEALTH FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31107
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY HOME & HEALTH HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31108
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY ID FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31109
-
-
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY ID HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31110
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY SCIENCE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31111
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY SCIENCE HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31112
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY THEATHER FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31113
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY TURBO FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31114
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY TURBO HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31115
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY WORLD FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31116
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",DISCOVERY WORLD HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31117
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",H2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31118
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",H2 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31119
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",HGTV HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31121
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",HISTORY FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31122
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",HISTORY HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31123
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",NATGEO FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31124
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",NATGEO HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31125
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",NATGEO WILD FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31126
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",NATGEO WILD HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31127
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",SMITHSONIAN HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31128
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",TLC FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31129
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",TRAVEL BOX BRAZIL
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31130
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",ALL SPORTS TV²
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31131
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",TODOS OS ESPORTES
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31132
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",BAND SPORTS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31133
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",BAND SPORTS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31134
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",BAND SPORTS HD*
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31135
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",COMBATE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31136
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",COMBATE HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31137
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/36YwJPc",COMBATE HD*
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31138
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN 2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31139
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN 2 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31140
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN 2 HD+
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31141
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31142
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN BRASIL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31143
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN BRASIL HD+
-http://xcui.vitvabc.xyz:8880/2287994003205/287994003205/31144
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN EXTRA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31145
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN EXTRA HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31146
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN EXTRA HD+
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31147
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31148
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN HD
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31149
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPN HD+
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31150
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FISH TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31151
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FISH TV HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31152
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FOX SPORTS 2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31153
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FOX SPORTS 2 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31154
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FOX SPORTS 1 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31155
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FOX SPORTS 1 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31156
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GOLF CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31158
-
-#EXTINF:-1 group-title="ATERNATIVOS"²,OFF FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31159
-
-#EXTINF:-1 group-title="ATERNATIVOS²",OFF HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31160
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORTV 2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31162
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORTV 2 HD
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31163
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORTV 3 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31165
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORTV 3 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31166
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORTV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31168
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORTV HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31169
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORTV HD*
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31170
-
-#EXTINF:-1 group-title="ATERNATIVOS²",WOOHOO FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31171
-
-#EXTINF:-1 group-title="ATERNATIVOS²",WOOHOO HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31172
-
-#EXTINF:-1 group-title="ATERNATIVOS²,CONMEBOL 3
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31189
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CONMEBOL 4
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31191
-
-#EXTINF:-1 group-title="ATERNATIVOS²",COPA DO NORDESTE 2 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31203
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DAZN2 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31210
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DAZN2 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31211
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT SPORTS 2
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31223
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT SPORTS 2 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31224
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT SPORTS 3 HD
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31226
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT SPORTS 4 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31227
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT SPORTS 4 SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31228
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT SPORTS 5 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31229
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT SPORTS 5 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31230
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT SPORTS 6 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31231
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT SPORTS 1 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31237
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CBTV
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31242
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ELEVEN SPORTS 1
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31243
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ELEVEN SPORTS 2
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31244
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ELEVEN SPORTS 3
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31245
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GOLF CHANNEL
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31246
-
-#EXTINF:-1 group-title="ATERNATIVOS²", MLB NETWORK
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31247
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NBA TV
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31248
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RED BULL TV
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31250
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORT TV +
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31251
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORT TV 1
-http://xcui.vitvabc.xyz:8880/2287994003205/287994003205/31252
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORT TV 2
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31253
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORT TV 3
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31254
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORT TV 4
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31255
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORT TV 5
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31256
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORT TV NBA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31257
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPORTING TV
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31258
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ABU DHABI SPORTS 01
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31259
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ABU DHABI SPORTS 02
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31260
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ABU DHABI SPORTS 03
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31261
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ABU DHABI SPORTS 04
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31262
-
-#EXTINF:-1 group-title="ATERNATIVOS²",AL KASS SPORTS 01
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31263
-
-#EXTINF:-1 group-title="ATERNATIVOS²",AL KASS SPORTS 02
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31264
-
-#EXTINF:-1 group-title="ATERNATIVOS²",AL KASS SPORTS 03
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31265
-
-#EXTINF:-1 group-title="ATERNATIVOS²",AL KASS SPORTS 04
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31266
-
-#EXTINF:-1 group-title="ATERNATIVOS²",AL KASS SPORTS 05
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31267
-
-#EXTINF:-1 group-title="ATERNATIVOS²",A&E FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31268
-
-#EXTINF:-1 group-title="ATERNATIVOS²",AMC HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31269
-
-#EXTINF:-1 group-title="ATERNATIVOS²",AXN FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31270
-
-#EXTINF:-1 group-title="ATERNATIVOS²",AXN HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31271
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CANAL SONY FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31272
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CANAL SONY HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31273
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMAX FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31274
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMAX HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31275
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FX FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31276
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FX HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31277
-
-#EXTINF:-1 group-title="ATERNATIVOS²",MEGAPIX FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31278
-
-#EXTINF:-1 group-title="ATERNATIVOS²",MEGAPIX HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31279
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PAROUNT CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31280
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PAROUNT CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31281
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ESPAÇO FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31282
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPACE HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31283
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SPACE HD*
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31284
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STAR CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31285
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STAR CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31286
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STAR HITS 1 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31287
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STAR HITS 2 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31288
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STAR HITS 2 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31289
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STAR HITS 1 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31290
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STUDIO UNIVERSAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31291
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STUDIO UNIVERSAL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31292
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SYFY FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31293
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SYFY HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31294
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TBS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31295
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TBS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31296
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TCM FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31297
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TCM HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31298
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31299
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TNT HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31300
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SÉRIE TNT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31301
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SÉRIE TNT HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31302
-
-#EXTINF:-1 group-title="ATERNATIVOS²",UNIVERSAL CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31303
-
-#EXTINF:-1 group-title="ATERNATIVOS²",UNIVERSAL TV HD
-http://xcui.vitvabc.xyz8880/287994003205/287994003205/31304
-
-#EXTINF:-1 group-title="ATERNATIVOS²",WARNER CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31305
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMA 1
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31316
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMA 2
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31317
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMA 3
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31318
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMA 4
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31319
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMA 5
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31320
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMA 6
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31321
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMA 7
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31322
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINEMA 8
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31324
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CINE SKY 9 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31325
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO 2 HD
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31460
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO FAMILY FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31461
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO FAMILY HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31462
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO FAMILY HD*
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31463
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31464
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO 1 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31465
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO MUNDI FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31466
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO MUNDI HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31467
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO PLUS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31468
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO PLUS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31469
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO POP FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31470
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO POP HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31471
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO SIGNATURE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31472
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO SIGNATURE HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31473
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO XTREAME HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31474
-
-#EXTINF:-1 group-title="ATERNATIVOS²",HBO XTREME FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31475
-
-#EXTINF:-1 group-title="ATERNATIVOS²",BABY TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31476
-
-#EXTINF:-1 group-title="ATERNATIVOS²",BABY TV HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31477
-
-#EXTINF:-1 group-title="ATERNATIVOS²",BOOMERANG FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31478
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CARTOON NETWORK FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31479
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CARTOON NETWORK HD
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31480
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DISCOVERY KIDS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31481
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DISCOVERY KIDS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31482
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DISNEY CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31483
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DISNEY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31484
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DISNEY JUNIOR FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31485
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DISNEY JUNIOR HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31486
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DISNEY XD FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31487
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DISNEY XD HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31488
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GLOOB FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31491
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GLOOB HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31492
-
-#EXTINF:-1 group-title="ATERNATIVOS²",LOADING TV
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31494
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NATGEO KIDS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31495
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NATGEO KIDS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31496
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NICK JR FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31497
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NICK JR HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31498
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NICKELODEON FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31499
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NICKELODEON HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31500
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TOONCAST FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31501
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TV RA TIM BUM FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31502
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TV RA TIM BUM HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31503
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ZOOMOO HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31504
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NOVIDADES DA BANDA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31506
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CNN BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31508
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CNN BRASIL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31509
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CNN ESPANHOL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31510
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CNN INTERNACIONAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31511
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DW DEUTSCHE
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31512
-
-#EXTINF:-1 group-title="ATERNATIVOS²",DW ESPANHOL
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31513
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FOX NEWS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31514
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FOX NEWS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31515
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GLOBO NEWS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31518
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GLOBO NEWS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31519
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NHK JAPÃO HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31520
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RAI INTERNACIONAL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31521
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD NEWS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31522
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD NEWS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31523
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SIC INTERNACIONAL²
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31524
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE CLUBES FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31525
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE CLUBES HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31526
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE CLUBES HD²
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31527
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 2 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31528
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 2 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31529
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 2 UHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31531
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 3 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31532
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 3 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31533
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 3 UHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31535
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 4 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31536
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 4 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31537
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 5 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31539
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 5 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31540
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 6 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31542
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 6 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31543
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 7 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31544
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PREMIERE 7 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31545
-
-#EXTINF:-1 group-title="ATERNATIVOS²",POWER COUPLE BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31547
-
-#EXTINF:-1 group-title="ATERNATIVOS²",POWER COUPLE BRASIL HD²
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31548
-
-#EXTINF:-1 group-title="ATERNATIVOS²",POWER COUPLE BRASIL HD³
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31549
-
-#EXTINF:-1 group-title="ATERNATIVOS²",POWER COUPLE BRASIL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31550
-
-#EXTINF:-1 group-title="ATERNATIVOS²",BR: RECORD CAMPINAS HD²
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31553
-
-#EXTINF:-1 group-title="ATERNATIVOS²",BR: RECORD RJ HD²
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31555
-
-#EXTINF:-1 group-title="ATERNATIVOS²",BR: RECORD SP HD²
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31556
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD RS
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31557
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GRAVAR BAHIA HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31558
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD BRASILIA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31560
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD BRASILIA HD¹
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31561
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31562
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD GOIAS
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31563
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GRAVAR MINAS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31565
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD RJ HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31566
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD RS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31567
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GRAVAR SP HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31568
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RECORD¹
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31569
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TV EVANGELIZAR
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31570
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CANCAO NOVA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31571
-
-#EXTINF:-1 group-title="ATERNATIVOS²",NOVO TEMPO
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31573
-
-#EXTINF:-1 group-title="ATERNATIVOS²",REDE GENISIS FHULLD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31574
-
-#EXTINF:-1 group-title="ATERNATIVOS²",REDE GOSPEL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31575
-
-#EXTINF:-1 group-title="ATERNATIVOS²",REDE SUPER FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31576
-
-#EXTINF:-1 group-title="ATERNATIVOS²",REDE VIDA
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31577
-
-#EXTINF:-1 group-title="ATERNATIVOS²",RIT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31578
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TV APARECIDA LIVRE
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31579
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TV GOSPEL CEARÁ
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31580
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CBTV Now
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31581
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE ACTION FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31582
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE ACTION HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31583
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE CULT FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31584
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE CULT HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31585
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE FUN FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31587
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE FUN HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31588
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE PIPOCA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31589
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE PIPOCA HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31590
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE PREMIUM FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31591
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE PREMIUM HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31592
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE TOUCH FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31593
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TELECINE TOUCH HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31594
-
-#EXTINF:-1 group-title="ATERNATIVOS²",Arte 1 FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31595
-
-#EXTINF:-1 group-title="ATERNATIVOS²",BIS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31596
-
-#EXTINF:-1 group-title="ATERNATIVOS²",BIS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31597
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CHEF TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/31598
-
-#EXTINF:-1 group-title="ATERNATIVOS²",COMEDY CENTRAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31599
-
-#EXTINF:-1 group-title="ATERNATIVOS²",COMEDY CENTRAL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31600
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CURTA! FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31601
-
-#EXTINF:-1 group-title="ATERNATIVOS²",CURTA! HD*
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31602
-
-#EXTINF:-1 group-title="ATERNATIVOS²",E! FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31604
-
-#EXTINF:-1 group-title="ATERNATIVOS²",E! HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31605
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FOOD NETWORK FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31606
-
-#EXTINF:-1 group-title="ATERNATIVOS²",FOOD NETWORK HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31607
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GNT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31608
-
-#EXTINF:-1 group-title="ATERNATIVOS²",GNT HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31609
-
-#EXTINF:-1 group-title="ATERNATIVOS²",ISAT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31610
-
-#EXTINF:-1 group-title="ATERNATIVOS²",LIFETIME FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31611
-
-#EXTINF:-1 group-title="ATERNATIVOS²",LIFETIME HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31612
-
-#EXTINF:-1 group-title="ATERNATIVOS²",MAIS GLOBOSAT
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31613
-
-#EXTINF:-1 group-title="ATERNATIVOS²",MAIS GLOBOSAT FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31614
-
-#EXTINF:-1 group-title="ATERNATIVOS²",MTV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31615
-
-#EXTINF:-1 group-title="ATERNATIVOS²",MTV HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31616
-
-#EXTINF:-1 group-title="ATERNATIVOS²",MULTISHOW FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31617
-
-#EXTINF:-1 group-title="ATERNATIVOS²",MULTSHOW HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31618
-
-#EXTINF:-1 group-title="ATERNATIVOS²",MUSIC BOX BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31619
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PLAY TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31620
-
-#EXTINF:-1 group-title="ATERNATIVOS²",PRIME BOX BRASIL FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31621
-
-#EXTINF:-1 group-title="ATERNATIVOS²",SHOPTIME HD
-http://xcui.vitvabc.xyz:8880/287994003230/287994003230/31622
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STAR LIFE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31623
-
-#EXTINF:-1 group-title="ATERNATIVOS²",STAR LIFE HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31624
-
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TRU TV FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31626
-
-
-#EXTINF:-1 group-title="ATERNATIVOS²",TRUTV HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31627
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3wWQiSw",VH1 HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31628
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3wWQiSw",VH1 MEGA HITS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31629
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3kNS71K",VIVA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31630
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://bit.ly/3kNS71K",VIVA HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/31631
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO TV RIO SUL HD
-http://xcui.vitvabc.xyz:8880/287994003230/287994003230/32155
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² AMAZONAS SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32157
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² ANHANGUERA GOIANIA SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32158
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² BRASILIA SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32159
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² EPTV CAMPINAS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32161
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² INTERNACIONAL SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32163
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² MINAS SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32164
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² NORDESTE HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32165
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² NSC FLORIANOPOLIS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32167
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² RBS PORTO ALEGRE SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32168
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² RIBEIRÃO PRETO SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32169
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² RJ HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32170
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² RPC TV HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32172
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² SP HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32174
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² SP SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32175
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² TV Sergipe HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32178
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² TV TEM BAURU SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32179
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² TV Tem Rio Preto SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32180
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² TV TEM SOROCABA SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32181
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² TV VANGUARDA SJ DOS CAMPOS SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32182
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO² TV VERDES MARES FORTALEZA SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32183
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ NSC JOINVILLE HDD SC
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32184
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ BRASILIA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32191
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ CHAPECO HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32194
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ CURITIBA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32198
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ EPTV CAMPINAS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32203
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ EPTV RIBEIRAO PRETO SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32206
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://canaisfree.000webhostapp.com/nscfpolis.png",GLOBO³ FLORIANOPOLIS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32208
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ FOZ DO IGUAÇU FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32215
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ FULLHD SP H.265
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32216
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ GAZETA SUL ALEGRE ES FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32217
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ GAZETA VITORIA SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32220
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ GOIÂNIA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32221
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ GOIANIA SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32223
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ INTEGRACAO ARAXA HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32224
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ INTER TV CABUGI FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32226
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ INTER TV ALTO LITORAL FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32227
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ INTER TV CABUGI SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32230
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ NORDESTE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/32241
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ NSC CHAPECO FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32243
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ NSC JOINVILLE FULLHD SC
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32244
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ PORTO ALEGRE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32247
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ RPC MARINGA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32265
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ RPC PONTA GROSSA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32266
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ RPC TV PARANAVAI FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32267
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ SP FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32276
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV ASA BRANCA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32279
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV CABO BRANCO FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32281
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV CENTRO AMERICA HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32284
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV CLUBE PI HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32286
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV GAZETA ALAGOAS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32290
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV GAZETA VITORIA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32291
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV INTER CABUGI HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32297
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV MIRANTE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32298
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV MIRANTE
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32300
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV RIO SUL FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32301
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV SANTA CRUZ FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32304
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ TV SERGIPE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32307
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO³ tv sergipe sd
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32309
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ CENTRO AMÉRICA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32319
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ EPTV CAMPINAS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32320
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://up load.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ EPTV SUL DE MINAS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32323
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ INTER TV ALTO LITORAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32325
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ INTER TV CABUGI FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32326
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ INTER TV DOS VALES FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32327
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ INTER TV GRANDE MINAS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32328
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ MINAS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32330
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ MINAS HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32331
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ NACIONAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32333
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ NORDESTE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32335
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://canaisfree.000webhostapp.com/nscfpolis.png",GLOBO¹ NSC FLORIANÓPOLIS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003197/287994003197/32339
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://canaisfree.000webhostapp.com/nscblumenau.png",GLOBO¹ NSC TV BLUMENAU FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32340
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png",GLOBO¹ NSC TV CRICIÚMA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32341
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ PORTUGAL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32342
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ RBS CAXIAS DO SUL FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32343
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ RBS TV POA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32344
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ RBS TV POA HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32345
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ REDE AMAZONICA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32347
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ RJ FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32348
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO¹ RPC CURITIBA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32351
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ RPC FOZ DO IGUAÇU FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32352
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ RPC MARINGÁ FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32353
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ RPC PARANAENSE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32354
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ RPC PONTA GROSSA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32356
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ RPC TV CURITIBA SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32357
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ SP FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32358
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ SP HD¹
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32360
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV ANHANGUERA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32362
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV ASA BRANCA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32365
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV BRASILIA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32370
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV CABO BRANCO FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32371
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"GLOBO¹ TV CENTRO AMÉRICA SD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32372
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV CLUBE TERESINA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32373
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV GAZETA DE ALAGOAS FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32374
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV GAZETA ES FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32375
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32376
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV MIRANTE FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32380
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV MORENA FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32383
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV RECIFE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32386
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV RIO SUL FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32387
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV SANTA CRUZ FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32389
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV SERGIPE FULLHD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32391
-
-#EXTINF:-1 group-title="ATERNATIVOS²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO¹ TV VERDES MARES FULL HD
-http://xcui.vitvabc.xyz:8880/287994003205/287994003205/32393
-
-
-#EXTINF:-1 tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png" group-title="GLOBO", GLOBO NSC CRICIUMA
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32341
-
-#EXTINF:-1 tvg-logo="https://canaisfree.000webhostapp.com/cricuma.png" group-title="GLOBO", GLOBO NSC CRICIUMA HD
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32341
-
-#EXTINF:-1 tvg-logo="https://canaisfree.000webhostapp.com/nscfpolis.png" group-title="GLOBO", GLOBO NSC FORIANÓPOLIS FULL HD
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32339
-
-#EXTINF:-1 tvg-logo="https://canaisfree.000webhostapp.com/nscfpolis.png" group-title="GLOBO", GLOBO NSC FORIANÓPOLIS HD
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32208
-
-#EXTINF:-1 tvg-logo="https://canaisfree.000webhostapp.com/nscfpolis.png" group-title="GLOBO", GLOBO NSC FORIANÓPOLIS HD¹
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32167
-
-#EXTINF:-1 tvg-logo="https://canaisfree.000webhostapp.com/nscblumenau.png" group-title="GLOBO",GLOBO NSC TV BLUMENAU FULLHD
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32340
-
-#EXTINF:-1 tvg-logo="
-https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="GLOBO", GLOBO PORTUGAL
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32342
-
-#EXTINF:-1 tvg-logo="
-https://clubdatelevisao.files.wordpress.com/2012/05/tv_globo_international_logo.png" group-title="GLOBO",GLOBO INTERNACIONAL SD
-http://xcui.vitvabc.xyz:8880/287994003196/287994003196/32163
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3gU4UNH" group-title="GLOBO", RBS TV RS
-http://rv.imax.re:80/307201371141/307201371141/82454
-
-
-#EXTINF:-1 tvg-id="globo" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="GLOBO",GLOBO NE HD
-http://199.127.62.234:2082/streams/24_.m3u8
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO RJ
-http://199.127.62.234:2082/streams/26_.m3u8
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO RJ
-http://199.127.62.234:2082/streams/319_.m3u8
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="http://img.appino.tv/img/globo.png", GLOBO 2 SD TEMP.
-http://srvtv.online:2082/981AGHJ76/3846590345/7048
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO RJ SD TEMP.
-https://streaming.cometa.link/a/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=AsFMAPUR3gaBUQkYw3fnfw&3U1G7qaTxrPbalZnEx=1622410390
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO RJ¹ SD TEMP.
-http://127.0.0.1:62514/s/live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo- rj_655/playlist.m3u8
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO RJ¹ TEMP.
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO RJ² SD TEMP.
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_1TORTUIAIS/playlist.m3u8?PEDROJ
-
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO HD²
-http://b5.vc/live/5sVAyGZp/phantomiptv/72011.m3u8     	
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO HD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO Rio HD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3A5FHHH" group-title="GLOBO", GLOBO RIO HD¹
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-Em
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO RJ HD 2
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO RJ SD 2
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
- 
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO RJ HD 5
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo="https://bit.ly/3A5FHHH", GLOBO HD
-http://b5.vc/live/5sVAyGZp/phantomiptv/71975.m3u8
-
-#EXTINF: -1 group-title = "GLOBO" tvg-logo = "https://bit.ly/2URbQCV", GLOBO SÃO PAULO HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://img.appino.tv/img/globo.png" group-title="GLOBO",Globo BA
-http://50.7.34.155:2200/BR/TV_Bahia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://img.appino.tv/img/globo.png" group-title="GLOBO",Globo RS
-http://50.7.34.155:2200/BR/RBS_TV_HD_Porto_Alegre-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://img.appino.tv/img/globo.png" group-title="GLOBO",Globo PA
-http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://img.appino.tv/img/globo.png" group-title="GLOBO",Globo Nordeste
-http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
- 
 ############################## ABERTOS ##############
+#EXTINF: -1 group-title = "ABERTOS" tvg-logo="https://bit.ly/3A5FHHH", GLOBO HD
+http://200.4.96.59:8002/play/a0fk/index.m3u8
 
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://bit.ly/3h3t0Wj", CORONA VÍRUS PANDEMIA
-http://rv.imax.re/307201371141/307201371141/82327
 
-#EXTINF: -1 group-title ="ABERTOS" tvg-logo="https://bit.ly/3h3t0Wj", CORONA VÍRUS PANDEMIA
-http://rv.imax.re/307201371141/307201371141/82327
-
-#EXTINF:-1 tvg-logo="https://canaisfree.000webhostapp.com/sbt%20sc.png" group-title="ABERTOS", SBT HD SC
-https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/media_w1015468493_6132.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT HD¹
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/1200px-Rede_Massa_logo.svg.png" group-title="ABERTOS", SBT REDE MASSA
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT MASSA PARANÁ
-http://127.0.0.1:55245/b5.vc:80/live/5sVAyGZp/phantomiptv/72303.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT HD MASSA PARANÁ
 http://b5.vc/live/5sVAyGZp/phantomiptv/72305.m3u8
@@ -1533,17 +52,12 @@ http://b5.vc/live/5sVAyGZp/phantomiptv/72305.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT SD MASSA PARANÁ
 http://b5.vc/live/5sVAyGZp/phantomiptv/72306.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/cReIxuH.jpg" group-title="ABERTOS", SBT PR Rede MASSA (ON)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist.m3u8
 
-#EXTINF: -1 tvg-id = "SBT.br" group-title="ABERTOS" tvg-logo= tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt- logo-2.png", SBT - TV Difusora São Luís (MA) SD
-https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
 
 #EXTINF: -1 tvg-id = "SBT.br" group-title="ABERTOS" tvg-logo= tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt- logo-2.png", SBT - TV Difusora Sul Imperatriz (MA) SD
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "SBT.br" group-title="ABERTOS" tvg-logo= tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt- logo-2.png", SBT - TV Serra Dourada (GO) SD
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
 
 #EXTINF: -1 tvg-id = "SBT.br" group-title="ABERTOS" tvg-logo= tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt- logo-2.png", SBT - TV Serra Dourada (GO) HD¹
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w454851786_b1000000.m3u8
@@ -1552,14 +66,12 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w4
 #EXTINF: -1 tvg-id = "SBT.br" group-title="ABERTOS" tvg-logo= tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt- logo-2.png", SBT - TV Serra Dourada (GO) HD²
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF: -1 tvg-id = "SBT.br" group-title="ABERTOS" tvg-logo= tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt- logo-2.png", SBT - BEM TV (MT) SD¹
-http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title=" ABERTOS", SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title=" ABERTOS",SBT HD¹
-http://50.7.34.155:2200/BR/SBT_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title=" ABERTOS", SBT² HD
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?IMDSFULL
@@ -1568,32 +80,11 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?IMDSFULL
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="ABERTOS ",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="ABERTOS",Banda - RBA TV (PA)
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="ABERTOS ",Banda SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="ABERTOS ",Banda SP Interior
-http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="ABERTOS ",Banda PA
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="redebrasil.com" tvg-name="BAND SP HD" tvg-logo="https://bit.ly/3uy0Oyr" group-title="ABERTOS",REDE BRASIL TV
-https://video01.logicahost.com.br/redebrasil/redebrasil/chunklist_w717528404.m3u8
 
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="ABERTOS",Record SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="ABERTOS",Gravar SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="ABERTOS",Gravar RJ HD 1
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="ABERTOS",Gravar RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://img.starbr.in/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="ABERTOS",Rede TV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -1629,8 +120,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b109600
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/34vWy7T" group-title="ABERTOS",Rede Família HD
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3vDz6la" group-title="ABERTOS",TV Gazeta SP
-http://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3vDz6la" group-title="ABERTOS",TV Gazeta SP HD
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?PEDROJUNIORTUTORIAIS
@@ -1642,8 +132,7 @@ https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://bit.ly/3gGt2n2" group-title="ABERTOS",D+TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1824251009.m3u8
 
-#EXTINF:0 group-title="ABERTOS" tvg-logo="https://bit.ly/2RTSGLm",TV Cidade Canal 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
+
 
 #EXTINF:0 group-title="ABERTOS" tvg-logo="https://bit.ly/3ftu4lE",TV Verdes Campos
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8?IMDSFULL
@@ -1669,8 +158,7 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/media_w188360453_44094.m3u8
 #EXTINF:-1 tvg-id="tv brusque" tvg-name="tv brusque" tvg-logo="https://bit.ly/3p1T46x "group-title="ABERTOS", CANAL BRUSQUE SC
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w550563544.m3u8
 
-#EXTINF:-1 tvg-id="REDE MANCHETE" tvg-name="REDE MANCHETE" tvg-logo="https://canaisfree.000webhostapp.com/NOVA%20MANCHETE.png "group-title="ABERTOS", NOVA MANCHETE HD¹
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/media_w1859876726_54240.m3u8
+
 
 #EXTINF:-1 tvg-id="TV Brasil" tvg-logo="https://bit.ly/3wI68AN" group-title="ABERTOS", TV BRASIL (TVE Brasil)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -1687,18 +175,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8?IM
 #EXTINF:0 group-title="ABERTOS" tvg-logo="https://bit.ly/34sgSXI",Rede TV Sul - WebTV
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="ABERTOS", SIC PORTUGAL
-https://videos.impresa.pt/sic/2021-01-09/2ff1c5ef-fd83-4bf1-ae7e-5ce3d3ba3ccb_filipa-nascimento-confessa3a-22vi-a-minha-mc3a3e-deixar-de-comer-para-eu- comer22/270p.m3u8
 
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="ABERTOS", TV MAIS BRASIL
-http://127.0.0.1:58947/s/srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1141374231.m3u8
 
-   ################################ REALIDADE ################# ####
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3fwYZxg" group-title="REALITY",Power Couple Brasil
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_1000/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3fwYZxg" group-title="REALITY",Power Couple Brasil
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
 
 ########################### religiosa ##################
 
@@ -1712,20 +191,13 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUT
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uxNtpQ" group-title="Religiosos",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uxNtpQ" group-title="Religiosos",TV Aparecida HD
-http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wESUEQ" group-title="Religiosos",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8?PEDROJUNIORTUTORIAIS
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uxNtpQ" group-title="Religiosos",Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3oYMGgw" group-title="Religiosos",TV Canção Nova
-http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3c57TQz" group-title="Religiosos",Rede Século 21
-https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:0 group-title="Religiosos" tvg-logo="https://bit.ly/3fVCEbH",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?IMDSFULL
@@ -1737,48 +209,48 @@ https://srv4.zcast.com.br/rodney2576/rodney2576/media_w11396038_177845.m3u8
 ################################## INFANTIL ############### #######
 
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-logo="https://bit.ly/3yOZk6k" group-title="Infantil",Zoomoo
-http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NICK" tvg-logo="https://bit.ly/3vxRY55" group-title="Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="NICK" tvg-logo="https://bit.ly/3vxRY55" group-title="Infantil",Nickelodeon (OFF)
 http://origin-02.nxplay.com.br/NICK_BR_HD_dr/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="NICK" tvg-logo="https://bit.ly/3qsxzwp" group-title="Infantil",NICK HD
-http://origin-02.nxplay.com.br/NICK_BR_HD_dr/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://origin-02.nxplay.com.br/NICK_BR_HD_dr/tracks-v3a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="NICK" tvg-logo="https://bit.ly/3vxRY55" group-title="Infantil",Nickelodeon¹
-http://212.224.98.208:2200/BR/Nickelodeon_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-logo="https://bit.ly/34HECaN" group-title="Infantil",Gloob
-http://212.224.98.208:2200/BR/Gloob_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+http://200.4.96.59:8002/play/a0ew/index.m3u8
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://bit.ly/2Tje3pG" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://bit.ly/2Tje3pG" group-title="Infantil",Cartoon Network (OFF)
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/tooncast_8effee40_d97f306b85250128a4a562a9ce6a98a8856f9fe8/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="https://bit.ly/2SC5SEO" group-title="Infantil",Disney XD
-http://xcui.vitvabc.xyz:8880/287994003578/287994003578/31487
+http://200.4.96.59:8004/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="https://bit.ly/2SC5SEO" group-title="Infantil",Disney XD HD
-http://xcui.vitvabc.xyz:8880/287994003578/287994003578/31488
+http://200.4.96.59:8004/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://bit.ly/3fTFWwi" group-title="Infantil",Discovery Kids
+http://200.4.96.59:8003/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://bit.ly/3oZM1vl" group-title="Infantil",Disney Junior
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8002/play/a0do/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://bit.ly/3oZM1vl" group-title="Infantil",Disney Junior HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8002/play/a0do/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://bit.ly/2R8NVxe" group-title="Infantil",Disney Channel
-http://199.127.62.234:2082/streams/143_.m3u8
+http://200.4.96.59:8002/play/a0ep/index.m3u
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://bit.ly/2R8NVxe" group-title="Infantil",Disney Channel HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8002/play/a0ep/index.m3u
 
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://bit.ly/3yLF8Cc" group-title="Infantil",Boomerang
-http://212.224.98.208:2200/BR/Boomerang_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://bit.ly/3yLF8Cc" group-title="Infantil",Cartonito HD
+http://200.4.96.59:8002/play/a0dw/index.m3u8
 
-#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="https://bit.ly/2TjsASe" group-title="Infantil",Tooncast
+#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="https://bit.ly/2TjsASe" group-title="Infantil",Tooncast (OFF)
 http://50.7.34.155:2200/BR/Tooncast-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://bit.ly/3c4GE8N" group-title="Infantil",RETRO CARTOON (Desenhos Antigos)
@@ -1807,49 +279,51 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a
 
 ############################### FILMES ################# ###########################
 #EXTINF:-1 tvg-id="AeE" tvg-logo="https://bit.ly/3wDXRhh" group-title="Filmes e Séries",A&E
-http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8002/play/a0e9/index.m3u8
 
 #EXTINF:-1 tvg-id="AeE" tvg-logo="https://bit.ly/3wDXRhh" group-title="Filmes e Séries",A&E HD
-http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8002/play/a0e9/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://bit.ly/3p21tXK" group-title="Filmes e Séries",AXN
-http://50.7.34.155:2200/BR/axnhd-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://bit.ly/3p21tXK" group-title="Filmes e Séries",AXN (OFF)
+http://200.4.96.59:8003/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="art 1" tvg-logo="https://bit.ly/3p21tXK" group-title="Filmes e Séries",ARTE 1 (OFF)
+http://200.4.96.59:8003/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://bit.ly/2R2pCkj" group-title="Filmes e Séries",HBO
-http://212.224.98.208:2200/BR/HBO_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+http://200.4.96.59:8003/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://bit.ly/3uwfw95" group-title="Filmes e Séries",HBO 2
-http://212.224.98.208:2200/BR/HBO_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+http://200.4.96.59:8003/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://bit.ly/3uwfw95" group-title="Filmes e Séries",HBO 2 (ALTERNATIVO)
-http://64bby.lgfd1lg.com/live/m2_7BFi6mTXRtGkNHln4zqwL3yj_480p/m2_7BFi6mTXRtGkNHln4zqwL3yj_480p_sensei_5549906479-10.ts
+
 
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://i.imgur.com/8fOTz2r.png" group-title="Filmes e Séries",HBO Plus
-http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8003/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://bit.ly/3uxObTW" group-title="Filmes e Séries",HBO Signature
-http://50.7.34.155:2200/BR/HBO_Signature_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8003/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://bit.ly/2SySr8t" group-title="Filmes e Séries",HBO Family
-http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8003/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://bit.ly/2SySr8t" group-title="Filmes e Séries",HBO Family
-http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8003/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://bit.ly/2RYV3fM" group-title="Filmes e Séries",HBO Mundi
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://bit.ly/2RYV3fM" group-title="Filmes e Séries",HBO Mundi (OFF)
 http://50.7.34.155:2200/BR/HBO_MUNDI_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://bit.ly/34s57Rl" group-title="Filmes e Séries",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://bit.ly/34s57Rl" group-title="Filmes e Séries",HBO Xtreme (OFF)
 http://50.7.34.155:2200/BR/HBO_Xtreme_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://bit.ly/2ROKe02" group-title="Filmes e Séries",HBO Pop
-http://50.7.34.155:2200/BR/HBO_POP_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8003/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://bit.ly/2ThmUrV" group-title="Filmes e Séries",Cinemax
-http://212.224.98.208:2200/BR/Cinemax_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+http://200.4.96.59:8002/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://bit.ly/2ThmUrV" group-title="Filmes e Séries",Cinemax HD
-http://212.224.98.208:2200/BR/Cinemax_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+http://200.4.96.59:8002/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://bit.ly/3uE5ZNu" group-title="Filmes e Séries",Star Channel
 http://212.224.98.208:2200/BR/Fox_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
@@ -2022,13 +496,12 @@ https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
 
 #################################### NOTICIAS ############# #########################
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News HD¹
-http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_655AIS/playlist.m3u8?PEDROJ
+http://200.4.96.59:8003/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News
-http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_655AIS/playlist.m3u8?PEDROJ
+http://200.4.96.59:8003/play/a03h/index.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News HD
-http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS/playlist.m3u8?
+
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",BandNews
 http://212.224.98.208:2200/BR/Band_News_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
@@ -2042,10 +515,10 @@ http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUN
 
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil¹
-https://m3u9.ml/a/hls1/cnnbrasil.m3u8?mu3zAQc9HC3GbwJq=FZp1FsSf67g_rM7FtvCRUw&3U1G7qaTxrPbalZnEx=1624854147
+http://200.4.96.59:8003/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="Notícias",CNN Brasil²(TEMP.)
-http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://200.4.96.59:8003/play/a02d/index.m3u8
 
 #EXTINF:0 group-title="Notícias" tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png",France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?IMDSFULL
@@ -2126,20 +599,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedade e Músicas",Food Network
 http://50.7.34.155:2200/BR/Food_Network_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow (Temp)
-http://rv.imax.re/307201371141/307201371141/82376
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow HD
+http://200.4.96.59:8003/play/a021/index.m3u8
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow
-http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow (TEMPORÁRIO)
-http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title="Variedade e Músicas" , Multishow FHD
-http://tv.minhalista.me/live/grC64RmPAR/factoryiptv/36957.ts
-
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title="Variedade e Músicas" ,Multishow HD¹
-http://tv.minhalista.me/live/grC64RmPAR/factoryiptv/37070.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/F0m1RWE.png" group-title="Variedade e Músicas",Carregando
 https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_360.m3u8?PEDROJUNIORTUTORIAIS
