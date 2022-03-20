@@ -6874,23 +6874,24 @@ http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 tvg-id="+ 18" tvg-name="+ 18"tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group titulo="+ 18", CANAL 25 HD (Latina)
 http://cdn.adultiptv.net/latina.m3u8
  
-#EXTINF:-1 tvg-id="+ 18" tvg-name="+ 18"tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group titulo="+ 18", CANAL 26 HD  
+
+ 
+
+ 
+
+ 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",CANAL 26 HD
 http://cdn.adultiptv.net/milf.m3u8
- 
-#EXTINF:-1 tvg-id="+ 18" tvg-name="+ 18"tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group titulo="+ 18", CANAL 27 HD  
-http://cdn.adultiptv.net/milf.m3u8
- 
-#EXTINF:-1 tvg-id="+ 18" tvg-name="+ 18"tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group titulo="+ 18", CANAL (Trans)
-http://www.ast.tv/stream/2/master.m3u8
- 
-#EXTINF:-1 tvg-id="+ 18" tvg-name="+ 18"tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group titulo="+ 18", CANAL (Trans 1)
-https://www.ast.tv/stream/1/cellular.m3u8
- 
- 
-#EXTINF:-1 tvg-id="+ 18" tvg-name="+ 18"tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group titulo="+ 18", CANAL (GAY)
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",CANAL 27 HD
+http://cdn.adultiptv.net/milf.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",CANAL (GAY 1)
 http://cdn.adultiptv.net/gay.m3u8
- 
-#EXTINF: -1 tvg-id = "+ 18" tvg-name = "+ 18" tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png" group- título = "+ 18", CANAL (GAY 2)
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",CANAL (GAY 2)
 http://live.redtraffic.net/gay.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="+ 18",XXX TRANS 1
