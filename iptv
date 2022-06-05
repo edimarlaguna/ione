@@ -1,15 +1,192 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BBB 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png", BBB 22 MOSAICO
-http://200.4.96.59:8004/play/a0fb/index.m3u8
 
+################    GLOBO ############
+#EXTINF:-1 tvg-id="Rede Amazônica Manaus HD" tvg-name="GLOBO AMAZÔNICA HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/rede_am.png" group-title="CANAIS GLOBO",GLOBO AMAZÔNICA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856358
+#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="GLOBO BAHIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO BAHIA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856364
+#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="GLOBO BAHIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO BAHIA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856362
+#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO BRASÍLIA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856372
+#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO BRASÍLIA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856370
+#EXTINF:-1 tvg-id="TV Centro América Cuiabá" tvg-name="GLOBO CUiABÁ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png" group-title="CANAIS GLOBO",GLOBO CUiABÁ SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856375
+#EXTINF:-1 tvg-id="EPTV HD Campinas" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856378
+#EXTINF:-1 tvg-id="EPTV HD Campinas" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856376
+#EXTINF:-1 tvg-id="EPTV Ribeirão Preto" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856381
+#EXTINF:-1 tvg-id="EPTV São Carlos" tvg-name="GLOBO EPTV SÃO CARLOS" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO EPTV SÃO CARLOS
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856383
+#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO FORTALEZA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO FORTALEZA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856385
+#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO FORTALEZA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO FORTALEZA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856384
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia HD" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO GOIÂNIA - TV ANHANGUERA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856386
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO INTER TV CABUGI HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856387
+#EXTINF:-1 tvg-id="Globo HD Minas" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO MINAS HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856390
+#EXTINF:-1 tvg-id="CNN Español" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO MINAS SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856388
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO NORDESTE HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856403
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO NSC BLUMENAU HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856406
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO NSC JOINVILLE HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856407
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC TV HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO NSC TV HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856408
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV 4K" tvg-logo="http://vipeiptv.com:25461/images/58ee6d7920593d3b04d173d68717b778.png" group-title="CANAIS GLOBO",GLOBO RBS TV 4K
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856413
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RBS TV FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856412
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RJ FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856421
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RJ HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856419
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RJ SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856417
+#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO RPC CURITIBA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856423
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO SP HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856428
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP SDD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO SP SDD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856426
+#EXTINF:-1 tvg-id="TV Liberal HD Belém" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV LIBERAL BELEM
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856456
+#EXTINF:-1 tvg-id="Rádio Globo RJ" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV MORENA FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856436
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV MORENA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856433
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV MORENA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856431
+#EXTINF:-1 tvg-id="TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="CANAIS GLOBO",GLOBO TV TEM BAURU HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856434
+#EXTINF:-1 tvg-id="TV Tem Sorocaba" tvg-name="GLOBO TV TEM SJRP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="CANAIS GLOBO",GLOBO TV TEM SJRP
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856438
+#EXTINF:-1 tvg-id="TV Tem Sorocaba" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="CANAIS GLOBO",GLOBO TV TEM SOROCABA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856439
+#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="GLOBO TV TRIBUNA" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV TRIBUNA
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856440
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV VANGUARDA SJC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="CANAIS GLOBO",GLOBO TV VANGUARDA SJC
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856441
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="TV CABO BRANCO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="CANAIS GLOBO",TV CABO BRANCO HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856807
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="TV CABO BRANCO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",TV CABO BRANCO SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856808
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBO",GLOBO NSC TV CHAPECO HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/961715
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBO",GLOBO NSC TV CRICIUMA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/961716
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO PORTO VELHO" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBO",GLOBO PORTO VELHO
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/961717
+#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="CANAIS GLOBO",GLOBO RPC FOZ DO IGUACU HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/961722
+#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="CANAIS GLOBO",GLOBO RPC MARINGA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/961723
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBO",GLOBO TV GAZETA ALAGOAS FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/977831
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV GAZETA DE ALAGOAS HD" tvg-logo="http://vipeiptv.com:25461/images/faeb9f2c0b22d0d9f19d63eca079bdd3.png" group-title="CANAIS GLOBO",GLOBO TV GAZETA DE ALAGOAS HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/977832
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="Globo TV TEM Taubaté FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Logotipo_da_TV_TEM.png/200px-Logotipo_da_TV_TEM.png" group-title="CANAIS GLOBO",Globo TV TEM Taubaté FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980172
+#EXTINF:-1 tvg-id="TV Tem HD Bauru" tvg-name="Globo TV TEM Itapetininga FHD" tvg-logo="http://vipeiptv.com:25461/images/a4a68d2bedc8f611fac689d9a6023b57.png" group-title="CANAIS GLOBO",Globo TV TEM Itapetininga FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980173
+#EXTINF:-1 tvg-id="Globo HD Minas" tvg-name="Globo TV Integração Araxá HD" tvg-logo="http://vipeiptv.com:25461/images/0fdfd7f770010f4d8140044497326519.png" group-title="CANAIS GLOBO",Globo TV Integração Araxá HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980174
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ Interior HD" tvg-logo="http://vipeiptv.com:25461/images/692c0b6faf35ffb7864b25c8fb902e2c.png" group-title="CANAIS GLOBO",Globo RJ Interior HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980175
+#EXTINF:-1 tvg-id="TV Tem São José do Rio Preto" tvg-name="Globo TV Fronteira Paulista HD" tvg-logo="http://vipeiptv.com:25461/images/0994da479644c497c8c72a3ff2b332c8.png" group-title="CANAIS GLOBO",Globo TV Fronteira Paulista HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980176
+#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="Globo RPC Paranavaí HD" tvg-logo="http://vipeiptv.com:25461/images/5a1754e47c35a765ca6e7bb712dc9f8c.png" group-title="CANAIS GLOBO",Globo RPC Paranavaí HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980177
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://vipeiptv.com:25461/images/1829faa27007ab66fdca8caed1be2542.png" group-title="CANAIS GLOBO",Globo Inter TV Grande Minas HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980178
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://vipeiptv.com:25461/images/335894ec0a70b0675aa2ca4c2e6aea94.png" group-title="CANAIS GLOBO",Globo Inter TV dos Vales FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980179
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://vipeiptv.com:25461/images/335894ec0a70b0675aa2ca4c2e6aea94.png" group-title="CANAIS GLOBO",Globo Inter TV dos Vales HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980180
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="Globo Porto Velho HD" tvg-logo="http://vipeiptv.com:25461/images/be7dd49da90b50ff9db89015009496b5.png" group-title="CANAIS GLOBO",Globo Porto Velho HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980182
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="Globo NSC Floripa FHD" tvg-logo="http://vipeiptv.com:25461/images/79bedadb219981378b9b11c76ad73230.png" group-title="CANAIS GLOBO",Globo NSC Floripa FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980183
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo NSC Floripa HD" tvg-logo="http://vipeiptv.com:25461/images/daf7409dd1b7ebcf7eea3f0d7a2d54c3.png" group-title="CANAIS GLOBO",Globo NSC Floripa HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980184
+#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO VERDES MARES FORTALEZA SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png" group-title="CANAIS GLOBO",GLOBO VERDES MARES FORTALEZA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980375
+#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO VERDES MARES FORTALEZA FHD" tvg-logo="http://vipeiptv.com:25461/images/2a5dacafb7a8d6d76250e7f5bee69c31.png" group-title="CANAIS GLOBO",GLOBO VERDES MARES FORTALEZA FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980376
+#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO VERDES MARES FORTALEZA HD" tvg-logo="http://vipeiptv.com:25461/images/2a5dacafb7a8d6d76250e7f5bee69c31.png" group-title="CANAIS GLOBO",GLOBO VERDES MARES FORTALEZA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980377
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="CANAIS GLOBO",GLOBO TV MIRANTE HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980378
+#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/rpc.png" group-title="CANAIS GLOBO",GLOBO RPC CURITIBA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980379
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="https://tvmagazine.com.br/imagens/icones/600/rbs.png" group-title="CANAIS GLOBO",GLOBO RBS TV PORTO ALEGRE HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980380
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="http://vipeiptv.com:25461/images/43f4ca63fdc5f25bbdb030576ced099e.png" group-title="CANAIS GLOBO",GLOBO RBS TV PASSO FUNDO HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980381
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="http://vipeiptv.com:25461/images/43f4ca63fdc5f25bbdb030576ced099e.png" group-title="CANAIS GLOBO",GLOBO RBS TV PELOTAS HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980382
+#EXTINF:-1 tvg-id="RBS TV HD Porto Alegre" tvg-name="GLOBO RBS TV SANTA MARIA HD" tvg-logo="http://vipeiptv.com:25461/images/43f4ca63fdc5f25bbdb030576ced099e.png" group-title="CANAIS GLOBO",GLOBO RBS TV SANTA MARIA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980383
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO NSC CENTRO OESTE FHD" tvg-logo="http://vipeiptv.com:25461/images/e8a96ab62fde197b23bfb2ce17625daa.png" group-title="CANAIS GLOBO",GLOBO NSC CENTRO OESTE FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980384
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS CAXIAS DO SUL HD" tvg-logo="http://vipeiptv.com:25461/images/43f4ca63fdc5f25bbdb030576ced099e.png" group-title="CANAIS GLOBO",GLOBO RBS CAXIAS DO SUL HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980385
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/globone.png" group-title="CANAIS GLOBO",Globo Nordeste FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980386
+#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="CANAIS GLOBO",GLOBO BRASÍLIA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980387
+#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvtribunaglobo.png" group-title="CANAIS GLOBO",GLOBO TV TRIBUNA SANTOS
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980388
+#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="http://vipeiptv.com:25461/images/241bd10fd976b9d12c5286efddcdb972.png" group-title="CANAIS GLOBO",GLOBO TV TRIBUNA SANTOS HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980389
+#EXTINF:-1 tvg-id="TV Liberal HD Belém" tvg-name="TV LIBERAL BELEM SD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="CANAIS GLOBO",TV LIBERAL BELEM SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980390
+#EXTINF:-1 tvg-id="TV Liberal HD Belém" tvg-name="TV LIBERAL BELEM HD" tvg-logo="http://vipeiptv.com:25461/images/01811765ee602b2a5f39fc0f34b79f35.png" group-title="CANAIS GLOBO",TV LIBERAL BELEM HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980391
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV SERGIPE" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="CANAIS GLOBO",GLOBO TV SERGIPE
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980392
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV MIRANTE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="CANAIS GLOBO",GLOBO TV MIRANTE
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980393
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV MIRANTE FHD" tvg-logo="http://vipeiptv.com:25461/images/2c5bbf544682bee59487bf66849b398f.png" group-title="CANAIS GLOBO",GLOBO TV MIRANTE FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980394
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV SERGIPE FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980395
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="" group-title="CANAIS GLOBO",GLOBO TV SERGIPE HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980396
+#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="Globo TV Bahia FHD" tvg-logo="" group-title="CANAIS GLOBO",Globo TV Bahia FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980397
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="" group-title="CANAIS GLOBO",Globo Inter TV Cabugi FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980398
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Gazeta Alagoas" tvg-logo="http://fonteviper.xyz:8080/images/d798db55982f49d6a11db66c52bd02b2.png" group-title="CANAIS GLOBO",Globo Gazeta Alagoas
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980399
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="CANAIS GLOBO",GLOBO INTER TV SERRA MAR
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1007154
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/image.png" group-title="CANAIS GLOBO",GLOBO GOIÂNIA - TV ANHANGUERA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070628
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/image.png" group-title="CANAIS GLOBO",GLOBO GOIÂNIA - TV ANHANGUERA FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070629
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP FHD" tvg-logo="https://tvmagazine.com.br/imagens/icones/600/globosp.png" group-title="CANAIS GLOBO",GLOBO SP FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070850
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO RECIFE FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/globone.png" group-title="CANAIS GLOBO",GLOBO RECIFE FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070875
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE PIAUI HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO TV CLUBE PIAUI HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070879
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE PIAUI FHD" tvg-logo="http://vipeiptv.com:8080/images/807c70b9e3c482e3e610d6a316a65ccb.png" group-title="CANAIS GLOBO",GLOBO TV CLUBE PIAUI FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070880
+#EXTINF:-1 tvg-id="Rede Amazônica Manaus HD" tvg-name="GLOBO AMAZÔNICA MACAPÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/26/Logotipo_da_Rede_Amaz%C3%B4nica.png/375px-Logotipo_da_Rede_Amaz%C3%B4nica.png" group-title="CANAIS GLOBO",GLOBO AMAZÔNICA MACAPÁ
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1071015
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SUDOESTE BAHIA" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBO",GLOBO SUDOESTE BAHIA
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1071045
 
-#EXTINF:-1 group-title="BBB 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png", BBB 22 CAM 1
-http://200.4.96.59:8004/play/a0f9/index.m3u8
-
-
-#EXTINF:-1 group-title="BBB 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png", BBB 22 CAM 2
-http://200.4.96.59:8004/play/a0fa/index.m3u8
 
 ###################### CORTESIA CANAIS ########################## ##########
 
